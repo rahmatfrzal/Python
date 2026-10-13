@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Halaman-1" id="IX__GYLhHoxTxzHEAmPC">
-    <mxGraphModel dx="944" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="890" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,21 +11,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_UgaqkC1Yjpcxzc8FJMT-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="3. Input Jumlah Resistor" vertex="1">
-          <mxGeometry height="40" width="135" x="327.5" y="200" as="geometry" />
+          <mxGeometry height="40" width="135" x="327.49" y="280" as="geometry" />
         </mxCell>
         <mxCell id="_UgaqkC1Yjpcxzc8FJMT-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;color: rgb(171, 178, 191); background-color: rgb(22, 25, 29); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="270" y="120" as="geometry" />
-        </mxCell>
-        <mxCell id="_UgaqkC1Yjpcxzc8FJMT-11" edge="1" parent="1" source="_UgaqkC1Yjpcxzc8FJMT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="394.688524590164" y="160.327868852459" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="_UgaqkC1Yjpcxzc8FJMT-12" edge="1" parent="1" source="_UgaqkC1Yjpcxzc8FJMT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_UgaqkC1Yjpcxzc8FJMT-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_UgaqkC1Yjpcxzc8FJMT-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="2. Pilih jenis rangkaian&lt;div&gt;&lt;i&gt;(seri/paralel)&lt;/i&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="135" x="327.5" y="120" as="geometry" />
+          <mxGeometry height="40" width="135" x="327.49" y="200" as="geometry" />
         </mxCell>
         <mxCell id="_UgaqkC1Yjpcxzc8FJMT-7" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;div style=&quot;line-height: 70%;&quot;&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 70%;&quot;&gt;DIAGRAM ALIR&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal; line-height: 70%;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal; line-height: 70%;&quot;&gt;MATA KULIAH&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal; white-space: pre; line-height: 70%;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal; line-height: 70%;&quot;&gt;: PEMROGRAMAN DASAR&lt;br&gt;KELOMPOK&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;:&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;- RAHMAT FALERIO RIZAL&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;- RAFIYARI LIMEHE&lt;br&gt;&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal; line-height: 70%;&quot;&gt;JUDUL&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;: KALKULATOR RESISTOR&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal; line-height: 70%;&quot;&gt;BAHASA PEMROGRAMAN&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;: PYTHON&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;/h1&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="170" width="330" x="20" y="990" as="geometry" />
@@ -34,33 +29,60 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_UgaqkC1Yjpcxzc8FJMT-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="4. Input Nilai Tiap Resistor" vertex="1">
-          <mxGeometry height="40" width="142.5" x="323.75" y="270" as="geometry" />
+          <mxGeometry height="40" width="142.5" x="323.75" y="360" as="geometry" />
         </mxCell>
         <mxCell id="_UgaqkC1Yjpcxzc8FJMT-25" edge="1" parent="1" source="_UgaqkC1Yjpcxzc8FJMT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_UgaqkC1Yjpcxzc8FJMT-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_UgaqkC1Yjpcxzc8FJMT-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="5. Input Tegangan Sumber" vertex="1">
-          <mxGeometry height="40" width="135" x="327.5" y="340" as="geometry" />
+          <mxGeometry height="40" width="135" x="327.49" y="440" as="geometry" />
         </mxCell>
         <mxCell id="_UgaqkC1Yjpcxzc8FJMT-22" edge="1" parent="1" source="_UgaqkC1Yjpcxzc8FJMT-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_UgaqkC1Yjpcxzc8FJMT-6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_UgaqkC1Yjpcxzc8FJMT-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;1. Start&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="80" x="355" y="50" as="geometry" />
+          <mxGeometry height="40" width="80" x="354.98" y="130" as="geometry" />
         </mxCell>
         <mxCell id="_UgaqkC1Yjpcxzc8FJMT-27" edge="1" parent="1" source="_UgaqkC1Yjpcxzc8FJMT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="_UgaqkC1Yjpcxzc8FJMT-4">
-          <mxGeometry relative="1" x="-0.0012" as="geometry">
+          <mxGeometry relative="1" x="0.4379" as="geometry">
             <Array as="points">
-              <mxPoint x="530" y="450" />
-              <mxPoint x="530" y="220" />
+              <mxPoint x="530" y="540" />
+              <mxPoint x="530" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="r7quyqeLoIp0dktG6DlS-10" edge="1" parent="1" source="_UgaqkC1Yjpcxzc8FJMT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="r7quyqeLoIp0dktG6DlS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_UgaqkC1Yjpcxzc8FJMT-23" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="6. Input Valid&lt;br&gt;&lt;i&gt;(ya/tidak)&lt;/i&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="156.25" x="316.87" y="420" as="geometry" />
+          <mxGeometry height="60" width="156.25" x="316.86" y="510" as="geometry" />
         </mxCell>
         <mxCell id="_UgaqkC1Yjpcxzc8FJMT-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Tidak" vertex="1">
-          <mxGeometry height="30" width="50" x="480" y="430" as="geometry" />
+          <mxGeometry height="30" width="50" x="476.25" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="r7quyqeLoIp0dktG6DlS-11" edge="1" parent="1" source="r7quyqeLoIp0dktG6DlS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="r7quyqeLoIp0dktG6DlS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r7quyqeLoIp0dktG6DlS-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="7. Hitung Resistansi Total" vertex="1">
+          <mxGeometry height="40" width="162.5" x="313.75" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="r7quyqeLoIp0dktG6DlS-12" edge="1" parent="1" source="r7quyqeLoIp0dktG6DlS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="r7quyqeLoIp0dktG6DlS-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r7quyqeLoIp0dktG6DlS-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="8. Hitung Arus Total" vertex="1">
+          <mxGeometry height="40" width="135" x="327.49" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="r7quyqeLoIp0dktG6DlS-13" edge="1" parent="1" source="r7quyqeLoIp0dktG6DlS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="r7quyqeLoIp0dktG6DlS-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r7quyqeLoIp0dktG6DlS-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="9. Hitung nilai tiap resistor&lt;div&gt;&lt;i&gt;(tegangan/arus, lalu daya total)&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="180" x="305" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="r7quyqeLoIp0dktG6DlS-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="10. Tampilkan hasil&lt;br&gt;&lt;i&gt;(lalu selesai)&lt;/i&gt;" vertex="1">
+          <mxGeometry height="70" width="162.5" x="313.75" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="r7quyqeLoIp0dktG6DlS-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Ya" vertex="1">
+          <mxGeometry height="30" width="40" x="394" y="575" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
